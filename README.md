@@ -57,6 +57,4 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/lexxbyte/lexxbyte/blob/output/github-contribution-grid-snake.svg)
-
 ###
