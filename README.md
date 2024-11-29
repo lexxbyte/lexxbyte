@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lexxbyte&label=Profile%20views&color=0e75b6&style=flat" alt="lexxbyte" /> </p>
 
-- 🌱 I’m currently learning **Flutter / Java**
+- 🌱 I’m currently learning **Flutter, Kotlin & React**
 
 ###
 
