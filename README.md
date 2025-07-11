@@ -3,11 +3,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=800&height=100&lines=Hello+World!+I'm+lexxbyte;Software+Engineering+Student;Learning+Mobile+Development;Flutter+%7C+Swift+%7C+Kotlin;Welcome+to+the+Future!" alt="Typing SVG" />
 </div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" alt="Synthwave Coding"/>
-</div>
-
 ---
 
 ## 🎓 About Me
