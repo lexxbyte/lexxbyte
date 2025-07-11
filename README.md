@@ -94,8 +94,6 @@ class SoftwareEngineeringStudent {
 
 ---
 
-## 🎮 Fun Zone
-
 <div align="center">
   
 ### 🏆 Achievement Unlocked
